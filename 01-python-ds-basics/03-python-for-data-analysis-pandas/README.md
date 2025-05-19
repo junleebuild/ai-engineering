@@ -74,7 +74,7 @@ Finally, practicing importing and exporting CSV, Excel, and HTML files using Pan
 ## 🗂️ Self-Written Notebooks
 
 - `01-my series.ipynb`
-- `02-mY dataframes.ipynb`
+- `02-my dataframes.ipynb`
 - `03-my missing data.ipynb`
 - `04-my groupby.ipynb`
 - `05-my merging-joining-concat.ipynb`
@@ -87,7 +87,7 @@ Finally, practicing importing and exporting CSV, Excel, and HTML files using Pan
 - `02-ref dataframes.ipynb`
 - `03-ref missing data.ipynb`
 - `04-ref groupby.ipynb`
-- `05-ref merging-joining-concat.ipynb`
+- `05-ref merging joining concat.ipynb`
 - `06-ref operations.ipynb`
 - `07-ref data input output.ipynb`
 
